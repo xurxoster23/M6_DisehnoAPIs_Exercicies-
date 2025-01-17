@@ -1,0 +1,23 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "routing",
+    "express"
+  ],
+  "author": "Devormar",
+  "license": "ISC",
+  "description": "práctica de enrutamiento de APIs",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
