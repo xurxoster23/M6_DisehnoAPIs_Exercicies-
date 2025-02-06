@@ -1,36 +1,60 @@
-# Bases de Datos en Desarrollo Full Stack
+# Diseño y Desarrollo de APIs
 
-## 1. Introducción a las bases de datos MySQL
-### 1.1 Instalación de MySQL
-### 1.2 Configuración de MySQL Server y Workbench
+## 1. ¿Qué es una API?
+- **Definición**
+  - Interfaz de programación de aplicaciones
+  - Permite la comunicación entre software
+- **Funcionamiento**
+  - Estructura de comunicación entre servicios
+- **Políticas de lanzamiento**
+  - Privadas
+  - De partners
+  - Públicas
 
-## 2. Conectando NodeJS con MySQL
-### 2.1 Creación de bases de datos y tablas
-### 2.2 Conexión de NodeJS y MySQL
+## 2. API First
+- **Concepto**
+  - Metodología de desarrollo donde las API son el punto de partida
+- **API Manager System**
+  - API Gateway
+  - API Manager
+  - API Portal
 
-## 3. MongoDB
-### 3.1 Introducción a MongoDB
-### 3.2 Instalación en entorno local
-### 3.3 Operaciones con la Shell de MongoDB
+## 3. Comprendiendo las entidades
+- **Concepto de entidad**
+  - Representación de datos en una API
+- **Enrutamiento en Express**
+  - Organización y mantenimiento del código
+- **Rutas desconocidas en Express**
+  - Gestión de errores y rutas inválidas
 
-## 4. Modelo relacional vs NoSQL
-### 4.1 Diferencias entre bases de datos relacionales y no relacionales
-### 4.2 Ventajas y desventajas del modelo NoSQL
+## 4. API RESTFul y Verbos HTTP
+- **Definición de API RESTFul**
+  - Basada en el protocolo HTTP
+- **Métodos HTTP**
+  - GET: Obtener datos
+  - POST: Crear datos
+  - PUT: Actualizar datos
+  - DELETE: Eliminar datos
 
-## 5. MongoDB Compass
-### 5.1 Conexión de Compass con un servidor MongoDB
-### 5.2 Operaciones CRUD en Compass
-### 5.3 Estructura de datos flexible en MongoDB
+## 5. Códigos de estado HTTP
+- **Clasificación**
+  - 200-299: Respuestas satisfactorias
+  - 400-499: Errores del cliente
+  - 500-599: Errores del servidor
+- **Errores comunes**
+  - 404: Recurso no encontrado
+  - 500: Error del servidor
 
-## 6. Integración de MongoDB y NodeJS con Mongoose
-### 6.1 Introducción a Mongoose
-### 6.2 Instalación en una API NodeJS Express
+## 6. Swagger
+- **Documentación de API**
+  - Instalación y configuración
+  - Generación de esquemas y endpoints
+- **Beneficios**
+  - Mejora la colaboración entre desarrolladores
+  - Facilita la integración con otros sistemas
 
-## 7. Schemas en MongoDB
-### 7.1 Declaración de schemas en Mongoose
-### 7.2 Validaciones adicionales en Mongoose
-
-## 8. Operaciones CRUD en MongoDB desde NodeJS
-### 8.1 Operaciones de lectura y escritura en MongoDB
-### 8.2 Operaciones sobre servidores en producción
+## 7. Testing de API con Postman
+- **Colecciones en Postman**
+- **Variables y entornos**
+- **Pruebas automatizadas**
 
