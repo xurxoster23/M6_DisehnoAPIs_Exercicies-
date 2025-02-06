@@ -1,3 +1,36 @@
-# RESTful APIs with NodeJS and Express
+# Bases de Datos en Desarrollo Full Stack
 
-## Las fuentes son dos extractos de material didáctico sobre el diseño y desarrollo de APIs RESTful usando NodeJS y Express. Se cubren conceptos fundamentales como la definición de API, metodologías API-first, gestión de entidades y enrutamiento, métodos HTTP, códigos de estado, documentación con Swagger, y pruebas con Postman. Se proporciona una explicación teórica y ejemplos prácticos de código para la implementación de estas funcionalidades. El material incluye cuestionarios y preguntas de ensayo para evaluar el aprendizaje. Un extracto describe la metodología de desarrollo y el otro presenta ejemplos prácticos de implementación en Express.
+## 1. Introducción a las bases de datos MySQL
+### 1.1 Instalación de MySQL
+### 1.2 Configuración de MySQL Server y Workbench
+
+## 2. Conectando NodeJS con MySQL
+### 2.1 Creación de bases de datos y tablas
+### 2.2 Conexión de NodeJS y MySQL
+
+## 3. MongoDB
+### 3.1 Introducción a MongoDB
+### 3.2 Instalación en entorno local
+### 3.3 Operaciones con la Shell de MongoDB
+
+## 4. Modelo relacional vs NoSQL
+### 4.1 Diferencias entre bases de datos relacionales y no relacionales
+### 4.2 Ventajas y desventajas del modelo NoSQL
+
+## 5. MongoDB Compass
+### 5.1 Conexión de Compass con un servidor MongoDB
+### 5.2 Operaciones CRUD en Compass
+### 5.3 Estructura de datos flexible en MongoDB
+
+## 6. Integración de MongoDB y NodeJS con Mongoose
+### 6.1 Introducción a Mongoose
+### 6.2 Instalación en una API NodeJS Express
+
+## 7. Schemas en MongoDB
+### 7.1 Declaración de schemas en Mongoose
+### 7.2 Validaciones adicionales en Mongoose
+
+## 8. Operaciones CRUD en MongoDB desde NodeJS
+### 8.1 Operaciones de lectura y escritura en MongoDB
+### 8.2 Operaciones sobre servidores en producción
+
